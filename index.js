@@ -40,7 +40,7 @@ app.use(function (req, res, next) {
 });
 
 app.get("/",function(req, res){
-    res.end(JSON.stringify({ msg: "hello" }));
+    res.end(JSON.stringify({ msg: "Backend Connected Successfully : ) ...." }));
 })
 
 app.get("/getBooks", function (req, res) {
