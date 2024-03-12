@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "65ec92c05db2c55b689c9f44"
+  },
+  "id": 1,
+  "imgUrl": "https://m.media-amazon.com/images/I/41zQfixbepL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "His Life",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "author": "John Doe",
+  "price": 19.99,
+  "rating": 4.5,
+  "type": "book"
+},
+{
+  "_id": {
+    "$oid": "75cf92c05db2c55b689c9f55"
+  },
+  "id": 2,
+  "imgUrl": "https://m.media-amazon.com/images/I/419bUTpLuZL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Her Journey",
+  "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+  "author": "Jane Smith",
+  "price": 14.99,
+  "rating": 4.2,
+  "type": "ebook"
+},
+{
+  "_id": {
+    "$oid": "95af92c05db2c55b689c9f77"
+  },
+  "id": 4,
+  "imgUrl": "https://m.media-amazon.com/images/I/41q28VYs-YL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Lost in Time",
+  "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+  "author": "Emily Brown",
+  "price": 9.99,
+  "rating": 4,
+  "type": "book"
+},
+{
+  "_id": {
+    "$oid": "15cf92c05db2c55b689c9f99"
+  },
+  "id": 6,
+  "imgUrl": "https://m.media-amazon.com/images/I/41zR0ZLjV1L._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Whispers in the Wind",
+  "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+  "author": "Sophia Johnson",
+  "price": 17.99,
+  "rating": 4.3,
+  "type": "audiobook"
+},
+{
+  "_id": {
+    "$oid": "05bf92c05db2c55b689c9f88"
+  },
+  "id": 5,
+  "imgUrl": "https://m.media-amazon.com/images/I/51uBTqkzKWL._SY420_.jpg",
+  "title": "Echoes of Silence",
+  "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+  "author": "Michael Davis",
+  "price": 12.99,
+  "rating": 4.7,
+  "type": "ebook"
+},
+{
+  "_id": {
+    "$oid": "25af92c05db2c55b689c9f10"
+  },
+  "id": 7,
+  "imgUrl": "https://m.media-amazon.com/images/I/41oCesFWhdL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Dreams of Tomorrow",
+  "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "author": "David White",
+  "price": 21.99,
+  "rating": 4.9,
+  "type": "book"
+},
+{
+  "_id": {
+    "$oid": "35bf92c05db2c55b689c9f11"
+  },
+  "id": 8,
+  "imgUrl": "https://m.media-amazon.com/images/I/41KLFcmWjHL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "A Glimpse of Hope",
+  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "author": "Emma Watson",
+  "price": 11.99,
+  "rating": 4.6,
+  "type": "ebook"
+},
+{
+  "_id": {
+    "$oid": "45cf92c05db2c55b689c9f12"
+  },
+  "id": 9,
+  "imgUrl": "https://m.media-amazon.com/images/I/51dhh0mdTlL._SY420_.jpg",
+  "title": "Rays of Sunshine",
+  "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "author": "Christopher Lee",
+  "price": 16.99,
+  "rating": 4.4,
+  "type": "audiobook"
+},
+{
+  "_id": {
+    "$oid": "55af92c05db2c55b689c9f13"
+  },
+  "id": 10,
+  "imgUrl": "https://m.media-amazon.com/images/I/5165He67NEL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "The Hidden Path",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "author": "Jessica Roberts",
+  "price": 13.99,
+  "rating": 4.1,
+  "type": "book"
+},
+{
+  "_id": {
+    "$oid": "85bf92c05db2c55b689c9f66"
+  },
+  "id": 3,
+  "imgUrl": "https://m.media-amazon.com/images/I/51GsQRI8cJL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Their Adventures",
+  "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti.",
+  "author": "Alex Johnson",
+  "price": 24.99,
+  "rating": 4.8,
+  "type": "audiobook"
+},
+{
+  "_id": {
+    "$oid": "65bf92c05db2c55b689c9f14"
+  },
+  "id": 11,
+  "imgUrl": "https://m.media-amazon.com/images/I/41Yv-kWk9xL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Voices from Beyond",
+  "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+  "author": "Andrew Johnson",
+  "price": 18.99,
+  "rating": 4.7,
+  "type": "ebook"
+},
+{
+  "_id": {
+    "$oid": "75cf92c05db2c55b689c9f15"
+  },
+  "id": 12,
+  "imgUrl": "https://m.media-amazon.com/images/I/415ksplTc8L._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Whispers of the Night",
+  "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "author": "Sophia Brown",
+  "price": 22.99,
+  "rating": 4.9,
+  "type": "audiobook"
+},
+{
+  "_id": {
+    "$oid": "85af92c05db2c55b689c9f16"
+  },
+  "id": 13,
+  "imgUrl": "https://example.com/image13.jpg",
+  "title": "Echoes of the Past",
+  "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+  "author": "Michael White",
+  "price": 10.99,
+  "rating": 4.3,
+  "type": "book"
+},
+{
+  "_id": {
+    "$oid": "95bf92c05db2c55b689c9f17"
+  },
+  "id": 14,
+  "imgUrl": "https://m.media-amazon.com/images/I/51M1RhZZuQL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "In the Shadows",
+  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "author": "Emma Watson",
+  "price": 15.99,
+  "rating": 4.5,
+  "type": "ebook"
+},
+{
+  "_id": {
+    "$oid": "05cf92c05db2c55b689c9f18"
+  },
+  "id": 15,
+  "imgUrl": "https://m.media-amazon.com/images/I/51AKk9NTPBL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Beyond the Horizon",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "author": "Christopher Johnson",
+  "price": 20.99,
+  "rating": 4.8,
+  "type": "audiobook"
+},
+{
+  "_id": {
+    "$oid": "15bf92c05db2c55b689c9f19"
+  },
+  "id": 16,
+  "imgUrl": "https://m.media-amazon.com/images/I/41Z9S2gB6tL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "The Forgotten Dreams",
+  "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+  "author": "David Lee",
+  "price": 23.99,
+  "rating": 4.6,
+  "type": "book"
+},
+{
+  "_id": {
+    "$oid": "25cf92c05db2c55b689c9f20"
+  },
+  "id": 17,
+  "imgUrl": "https://m.media-amazon.com/images/I/51AQN9jaSIL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "In Pursuit of Happiness",
+  "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti.",
+  "author": "Jennifer Smith",
+  "price": 11.99,
+  "rating": 4.2,
+  "type": "ebook"
+},
+{
+  "_id": {
+    "$oid": "35cf92c05db2c55b689c9f21"
+  },
+  "id": 18,
+  "imgUrl": "https://m.media-amazon.com/images/I/41IG3l2NQWL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "The Road Less Traveled",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "author": "Kevin Brown",
+  "price": 17.99,
+  "rating": 4.4,
+  "type": "audiobook"
+},
+{
+  "_id": {
+    "$oid": "45bf92c05db2c55b689c9f22"
+  },
+  "id": 19,
+  "imgUrl": "https://m.media-amazon.com/images/I/51TWpxEY7tL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "The Silent Storm",
+  "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "author": "Michelle Johnson",
+  "price": 13.99,
+  "rating": 4.3,
+  "type": "book"
+},
+{
+  "_id": {
+    "$oid": "55cf92c05db2c55b689c9f23"
+  },
+  "id": 20,
+  "imgUrl": "https://m.media-amazon.com/images/I/41NHwJXCmnL._PJku-sticker-v7,TopRight,0,-50._SY420_.jpg",
+  "title": "Beyond the Veil",
+  "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "author": "Sophie White",
+  "price": 19.99,
+  "rating": 4.7,
+  "type": "ebook"
+}]
