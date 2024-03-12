@@ -1,0 +1,43 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backendbluedeployment
+spec:
+  replicas: 2
+  strategy:
+    type: RollingUpdate
+  selector:
+    matchLabels:
+      app: node-Backend-app
+      version: v1
+      color: blue
+  template:
+    metadata:
+      name: node-Backend-app
+      labels:
+        app: node-Backend-app
+        version: v1
+        color: blue
+    spec:
+      containers:
+      - name: nodeappcontainers
+        image: dockerdocker2023/backendmarch
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 4800
+...
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: javawebappliveservice
+spec:
+  type: LoadBalancer
+  selector:
+    version: v1
+  ports:
+  - port: 4800
+    targetPort: 4800
+...
